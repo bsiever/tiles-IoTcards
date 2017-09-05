@@ -1,6 +1,7 @@
 v.064
 - Updated wording on several cards
-- Added a new criteria card
+- Added a new criteria card (Social status)
+- Changed several fonts (to comparable font without the same licensing constraints)
 
 v.063
 - Added sponsor card
