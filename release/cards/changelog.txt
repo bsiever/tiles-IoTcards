@@ -1,3 +1,7 @@
+v.064
+- Updated wording on several cards
+- Added a new criteria card
+
 v.063
 - Added sponsor card
 - Corrected typos in missions and criteria
